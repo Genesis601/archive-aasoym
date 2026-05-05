@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Genesis601.github.io/archive-aasoym/sitemap.xml
